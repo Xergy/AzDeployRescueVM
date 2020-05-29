@@ -6,7 +6,7 @@ This is a simple script that deploys a Azure Marketplace VM configured for Hyper
 ## Details
 
 - See the below article for supporting procedures:  
-  **Troubleshoot a faulty Azure VM by using nested virtualization in Azure**
+  **Troubleshoot a faulty Azure VM by using nested virtualization in Azure**  
   https://docs.microsoft.com/en-us/azure/virtual-machines/troubleshooting/troubleshoot-vm-by-use-nested-virtualization
 - Deployed VM has these attributes:
   - OS: Windows Server 2016
